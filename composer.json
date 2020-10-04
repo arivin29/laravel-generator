@@ -1,7 +1,7 @@
 {
-    "name": "infyomlabs/laravel-generator",
+    "name": "devetek/laravel-generator-custom",
     "type": "library",
-    "description": "InfyOm Laravel Generator",
+    "description": "InfyOm Laravel Generator custom",
     "keywords": [
         "laravel",
         "api",
